@@ -43,7 +43,7 @@ Incluye dos componentes principales:
 ### Pasos
 ```bash
 # 1) Clona este repositorio
-$ git clone https://github.com/tu_usuario/lowcostrobot_gamepad.git
+$ git clone https://github.com/V0id_array/lowcostrobot_gamepad.git
 $ cd lowcostrobot_gamepad
 
 # 2) Crea un entorno virtual
